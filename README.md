@@ -9,6 +9,5 @@ I am an undergraduate student at Case Western Reserve University currently major
 Skills: REACT / JS / ANDROID STUDIO / PYTHON / HTML / CSS
 
 
-Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/giridaaju)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sauravgiri1/)  
 
