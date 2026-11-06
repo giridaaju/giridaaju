@@ -7,10 +7,10 @@ My primary research interests include economic development in South Asia, partic
 
 ### 🔬 Research & Technical Interests
 
-Quantitative Research: Exploratory data analysis, statistical analysis, regression modeling, and empirical research.
-Development Economics: Economic growth, human development, institutional economics, and poverty reduction.
-Regional Focus: Nepal and South Asia, particularly infrastructure, urban development, and public policy.
-Data & Research: Working with economic indicators, cross-country datasets, and development statistics.
+Quantitative Research: Exploratory data analysis, statistical analysis, regression modeling, and empirical research. /n
+Development Economics: Economic growth, human development, institutional economics, and poverty reduction. /n
+Regional Focus: Nepal and South Asia, particularly infrastructure, urban development, and public policy. /n
+Data & Research: Working with economic indicators, cross-country datasets, and development statistics. /n
 
 ### 🛠️ Tools & Technologies
 Statistical Analysis: Stata, Python
