@@ -13,17 +13,17 @@ My primary research interests include economic development in South Asia, partic
 **Data & Research:** Working with economic indicators, cross-country datasets, and development statistics. <br>
 
 ### 🛠️ Tools & Technologies
-**Statistical Analysis:** Stata, Python
-**Data Analysis & Visualization:** Excel, Pandas, Matplotlib
-**Databases:** SQL, MySQL, PostgreSQL
-**Programming:** Python, Java, JavaScript
-**Research & Data Sources:** World Bank Open Data, World Development Indicators (WDI)
+**Statistical Analysis:** Stata, Python <br>
+**Data Analysis & Visualization:** Excel, Pandas, Matplotlib <br>
+**Databases:** SQL, MySQL, PostgreSQL <br>
+**Programming:** Python, Java, JavaScript <br>
+**Research & Data Sources:** World Bank Open Data, World Development Indicators (WDI) <br>
 
 ### 📊 Featured Projects
 **South Asia Development Analysis:** An exploratory study of the relationship between economic growth and human development across eight South Asian countries (2000–2024), using World Bank data and Stata. Includes data cleaning, descriptive statistics, visualizations, and regression analysis.
 
 ### 🎓 Education
-B.A. in Computer Science
+B.A. in Computer Science <br>
 Case Western Reserve University | December 2024
 
 ### 🌏 What I'm Working Toward
